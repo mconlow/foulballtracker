@@ -1,0 +1,8 @@
+rect (4096,4096) (4096,4096) imap:#$-:Image map file created by GIMP Image Map plug-in
+rect (4096,4096) (4096,4096) imap:#$-:GIMP Image Map plug-in by Maurits Rijk
+rect (4096,4096) (4096,4096) imap:#$-:Please do not edit lines starting with "#$"
+rect (4096,4096) (4096,4096) imap:#$VERSION:2.3
+rect (4096,4096) (4096,4096) imap:#$TITLE:map
+rect (4096,4096) (4096,4096) imap:#$AUTHOR:Mike Conlow
+rect (4096,4096) (4096,4096) imap:#$FORMAT:cern
+poly (136,218) (178,259) (199,316) (269,393) (290,399) (320,386) (382,306) (395,273) (404,254) (437,221) (432,202) (352,116) (322,97) (280,89) (232,97) (202,115) (143,176) (137,200) (136,218) 
